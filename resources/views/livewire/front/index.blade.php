@@ -18,10 +18,10 @@
                     <div class="feed-toggle">
                         <ul class="nav nav-pills outline-active">
                             @auth
-                            <span>TEST</span>
                             <li class="nav-item">
                                 <a wire:click="$toggle('viewingPrivateFeed')"
                                     class="nav-link {{ $viewingPrivateFeed ? 'active':'' }}" href="#">Your Feed</a>
+                                    <span>TEST</span>
                             </li>
                             @endauth
                             <li class="nav-item">
