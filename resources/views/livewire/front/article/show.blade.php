@@ -14,6 +14,7 @@
                             class="author">{{ $article->author->name }}</a>
                         <span class="date">{{ $article->created_at }}</span>
                     </div>
+                    <span>GAL</span>
 
                     @guest
                     <a href="{{ route('app.login') }}" class="btn btn-sm btn-outline-secondary">
