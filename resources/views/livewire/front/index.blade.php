@@ -23,6 +23,7 @@
                                     class="nav-link {{ $viewingPrivateFeed ? 'active':'' }}" href="#">Your Feed</a>
                             </li>
                             @endauth
+                            <span>TEST</span>
                             <li class="nav-item">
                                 <a wire:click="$toggle('viewingPrivateFeed')"
                                     class="nav-link {{ $viewingPrivateFeed ? '':'active' }}" href="#">Global Feed</a>
