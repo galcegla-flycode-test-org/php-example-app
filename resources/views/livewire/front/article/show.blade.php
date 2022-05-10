@@ -33,6 +33,7 @@
                         &nbsp;
                         Unfollow {{ $article->author->name }} <span
                             class="counter">({{ $article->author->followersCountReadable() }})</span>
+                        <span>IDDAN</span>
                         @endif
 
                         @if (!$user->isFollowing($article->author))
