@@ -1,0 +1,11 @@
+version: "0.1"
+environments:
+  - name: main
+    branch: main
+    mode: pull-request
+apps:
+  - name: php-example-app
+    path: ""
+    text-resources:
+      - path: "*.php"
+        format: php-hardcoded
