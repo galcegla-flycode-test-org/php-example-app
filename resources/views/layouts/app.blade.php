@@ -31,7 +31,7 @@
                 {{-- <ul class="nav navbar-nav pull-xs-right">
                     <li class="nav-item">
                         <!-- Add "active" class when you're on that page" -->
-                        <a class="nav-link" href="{{ route('front.index') }}">Home</a>
+                        <a class="nav-link" href="{{ route('front.index') }}Home</a>
                 </li>
                 @auth
                 <li class="nav-item">
