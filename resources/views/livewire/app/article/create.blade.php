@@ -43,7 +43,7 @@
                                 <div class="tag-list"></div>
                             </fieldset>
                             <button class="btn btn-lg pull-xs-right btn-primary" type="button" wire:click='saveArticle'>
-                                Publish Article
+                                Publish Article!@#$%^%&amp;{{}}[[]]
                             </button>
                         </fieldset>
                     </form>
