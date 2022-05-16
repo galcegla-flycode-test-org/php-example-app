@@ -9,3 +9,4 @@ apps:
     text-resources:
       - path: "*.php"
         format: php-hardcoded
+
