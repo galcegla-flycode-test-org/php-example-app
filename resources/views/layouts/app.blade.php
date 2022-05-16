@@ -36,12 +36,12 @@
                 @auth
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('app.article.create') }}">
-                        <i class="ion-compose"></i>&nbsp;New Post
+                        <i class="ion-compose"></i>&nbsp;New Post!!!!
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="{{ route('app.setting') }}">
-                        <i class="ion-gear-a"></i>&nbsp;Settings
+                        <i class="ion-gear-a"></i>&nbsp;Settings*(&amp;%&amp;^@%$^{{{}}}[[[]]]
                     </a>
                 </li>
                 <li class="nav-item">
