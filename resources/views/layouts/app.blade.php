@@ -26,7 +26,7 @@
     <body>
         <nav class="navbar navbar-light">
             <div class="container">
-                <a class="navbar-brand" href="{{ route('front.index') }}">conduit!!!</a>
+                <a class="navbar-brand" href="{{ route('front.index') }}">conduit2!!!</a>
                 {!! Menu::app() !!}
                 {{-- <ul class="nav navbar-nav pull-xs-right">
                     <li class="nav-item">
