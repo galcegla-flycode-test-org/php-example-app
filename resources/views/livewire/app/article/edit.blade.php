@@ -63,7 +63,7 @@
                 </button>
 
                 <button class="btn btn-lg pull-xs-right btn-danger" type="button" wire:click='deleteArticle'>
-                    Delete Article
+                    Delete Article3
                 </button>
 
                 <a class="btn btn-lg pull-xs-right btn-secondary"
