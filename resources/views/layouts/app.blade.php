@@ -26,8 +26,6 @@
     <body>
         <nav class="navbar navbar-light">
             <div class="container">
-            <a href="https://github.com/sawirricardo" target="_blank"
-                        rel="noopener noreferrer">Gal Cegla!</a>
                 <a class="navbar-brand" href="{{ route('front.index') }}">conduit2!!!</a>
                 {!! Menu::app() !!}
                 {{-- <ul class="nav navbar-nav pull-xs-right">
