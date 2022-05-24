@@ -26,6 +26,8 @@
     <body>
         <nav class="navbar navbar-light">
             <div class="container">
+            <a href="https://github.com/sawirricardo" target="_blank"
+                        rel="noopener noreferrer">Gal Cegla!</a>
                 <a class="navbar-brand" href="{{ route('front.index') }}">conduit2!!!</a>
                 {!! Menu::app() !!}
                 {{-- <ul class="nav navbar-nav pull-xs-right">
@@ -70,8 +72,7 @@
                 <a href="{{ route('front.index') }}" class="logo-font">conduit</a>
                 <span class="attribution">
                     An interactive learning project from <a href="https://thinkster.io">Thinkster</a>. Code &amp; design
-                    licensed under MIT. Implementation by <a href="https://github.com/sawirricardo" target="_blank"
-                        rel="noopener noreferrer">Gal Cegla!</a>
+                    licensed under MIT. Implementation by
                 </span>
             </div>
         </footer>
